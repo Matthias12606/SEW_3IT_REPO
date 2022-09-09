@@ -1,0 +1,15 @@
+C:\dev\matthias.prankl\Test_Project\bin\Debug\net6.0\Test_Project.exe
+C:\dev\matthias.prankl\Test_Project\bin\Debug\net6.0\Test_Project.deps.json
+C:\dev\matthias.prankl\Test_Project\bin\Debug\net6.0\Test_Project.runtimeconfig.json
+C:\dev\matthias.prankl\Test_Project\bin\Debug\net6.0\Test_Project.dll
+C:\dev\matthias.prankl\Test_Project\bin\Debug\net6.0\Test_Project.pdb
+C:\dev\matthias.prankl\Test_Project\obj\Debug\net6.0\Test_Project.csproj.AssemblyReference.cache
+C:\dev\matthias.prankl\Test_Project\obj\Debug\net6.0\Test_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\matthias.prankl\Test_Project\obj\Debug\net6.0\Test_Project.AssemblyInfoInputs.cache
+C:\dev\matthias.prankl\Test_Project\obj\Debug\net6.0\Test_Project.AssemblyInfo.cs
+C:\dev\matthias.prankl\Test_Project\obj\Debug\net6.0\Test_Project.csproj.CoreCompileInputs.cache
+C:\dev\matthias.prankl\Test_Project\obj\Debug\net6.0\Test_Project.dll
+C:\dev\matthias.prankl\Test_Project\obj\Debug\net6.0\refint\Test_Project.dll
+C:\dev\matthias.prankl\Test_Project\obj\Debug\net6.0\Test_Project.pdb
+C:\dev\matthias.prankl\Test_Project\obj\Debug\net6.0\Test_Project.genruntimeconfig.cache
+C:\dev\matthias.prankl\Test_Project\obj\Debug\net6.0\ref\Test_Project.dll
