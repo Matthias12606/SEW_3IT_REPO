@@ -1,0 +1,15 @@
+C:\dev\matthias.prankl\02_NullabelDatatypes\bin\Debug\net6.0\02_NullabelDatatypes.exe
+C:\dev\matthias.prankl\02_NullabelDatatypes\bin\Debug\net6.0\02_NullabelDatatypes.deps.json
+C:\dev\matthias.prankl\02_NullabelDatatypes\bin\Debug\net6.0\02_NullabelDatatypes.runtimeconfig.json
+C:\dev\matthias.prankl\02_NullabelDatatypes\bin\Debug\net6.0\02_NullabelDatatypes.dll
+C:\dev\matthias.prankl\02_NullabelDatatypes\bin\Debug\net6.0\02_NullabelDatatypes.pdb
+C:\dev\matthias.prankl\02_NullabelDatatypes\obj\Debug\net6.0\02_NullabelDatatypes.csproj.AssemblyReference.cache
+C:\dev\matthias.prankl\02_NullabelDatatypes\obj\Debug\net6.0\02_NullabelDatatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\matthias.prankl\02_NullabelDatatypes\obj\Debug\net6.0\02_NullabelDatatypes.AssemblyInfoInputs.cache
+C:\dev\matthias.prankl\02_NullabelDatatypes\obj\Debug\net6.0\02_NullabelDatatypes.AssemblyInfo.cs
+C:\dev\matthias.prankl\02_NullabelDatatypes\obj\Debug\net6.0\02_NullabelDatatypes.csproj.CoreCompileInputs.cache
+C:\dev\matthias.prankl\02_NullabelDatatypes\obj\Debug\net6.0\02_NullabelDatatypes.dll
+C:\dev\matthias.prankl\02_NullabelDatatypes\obj\Debug\net6.0\refint\02_NullabelDatatypes.dll
+C:\dev\matthias.prankl\02_NullabelDatatypes\obj\Debug\net6.0\02_NullabelDatatypes.pdb
+C:\dev\matthias.prankl\02_NullabelDatatypes\obj\Debug\net6.0\02_NullabelDatatypes.genruntimeconfig.cache
+C:\dev\matthias.prankl\02_NullabelDatatypes\obj\Debug\net6.0\ref\02_NullabelDatatypes.dll
