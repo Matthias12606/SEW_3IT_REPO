@@ -14,6 +14,6 @@ if(tobias != null)
 int? i = null;          //nullable Datentyp int --> durch ?
 i = 5;                  //Zuweisung zu einem nullable Datatype
 
-int j = i.Value * 4;
+int j = i.Value * 4;        //Zugriff auf i.Value nur wenn nicht null
 
 
