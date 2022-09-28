@@ -35,6 +35,20 @@ void SwapNameS(Student a, Student b)
     b.Name = temp;
 }
 
+void generateNumber(out int number)
+{
+    number = new Random().Next();
+}
+
+void generateNumbers(out int[] numbers)
+{
+    numbers = new int[5];
+    for(int i = 0; i < numbers.Length; i++)
+    {
+        numbers[i] = i * i;
+    }
+}
+
 double a = 5.0;
 double b = 4.0;
 
@@ -59,3 +73,15 @@ Console.WriteLine("b = " + b);
 SwapSRef(ref matthias, ref florian);         // matthias und florian werden vertauscht, weil Argumente als Referenc (ref) übergeben werden
 Console.WriteLine("matthias = " + matthias);
 Console.WriteLine("florian = " + florian);
+
+int n;
+//Console.WriteLine(n);         Compiler fehler
+generateNumber(out n);          // n muss an dieser Stelle noch keinen Wert besitzen (darf aber).
+Console.WriteLine(n);
+
+int[] numbers;
+generateNumbers(out numbers);
+foreach(int i in numbers)
+{
+    Console.WriteLine(i);
+}
