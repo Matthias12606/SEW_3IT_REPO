@@ -1,0 +1,15 @@
+C:\dev\matthias.prankl\04_TryParse\bin\Debug\net6.0\04_TryParse.exe
+C:\dev\matthias.prankl\04_TryParse\bin\Debug\net6.0\04_TryParse.deps.json
+C:\dev\matthias.prankl\04_TryParse\bin\Debug\net6.0\04_TryParse.runtimeconfig.json
+C:\dev\matthias.prankl\04_TryParse\bin\Debug\net6.0\04_TryParse.dll
+C:\dev\matthias.prankl\04_TryParse\bin\Debug\net6.0\04_TryParse.pdb
+C:\dev\matthias.prankl\04_TryParse\obj\Debug\net6.0\04_TryParse.csproj.AssemblyReference.cache
+C:\dev\matthias.prankl\04_TryParse\obj\Debug\net6.0\04_TryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\matthias.prankl\04_TryParse\obj\Debug\net6.0\04_TryParse.AssemblyInfoInputs.cache
+C:\dev\matthias.prankl\04_TryParse\obj\Debug\net6.0\04_TryParse.AssemblyInfo.cs
+C:\dev\matthias.prankl\04_TryParse\obj\Debug\net6.0\04_TryParse.csproj.CoreCompileInputs.cache
+C:\dev\matthias.prankl\04_TryParse\obj\Debug\net6.0\04_TryParse.dll
+C:\dev\matthias.prankl\04_TryParse\obj\Debug\net6.0\refint\04_TryParse.dll
+C:\dev\matthias.prankl\04_TryParse\obj\Debug\net6.0\04_TryParse.pdb
+C:\dev\matthias.prankl\04_TryParse\obj\Debug\net6.0\04_TryParse.genruntimeconfig.cache
+C:\dev\matthias.prankl\04_TryParse\obj\Debug\net6.0\ref\04_TryParse.dll
