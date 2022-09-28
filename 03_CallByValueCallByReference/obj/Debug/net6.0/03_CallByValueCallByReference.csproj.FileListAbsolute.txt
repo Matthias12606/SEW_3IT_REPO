@@ -1,0 +1,15 @@
+C:\dev\matthias.prankl\03_CallByValueCallByReference\bin\Debug\net6.0\03_CallByValueCallByReference.exe
+C:\dev\matthias.prankl\03_CallByValueCallByReference\bin\Debug\net6.0\03_CallByValueCallByReference.deps.json
+C:\dev\matthias.prankl\03_CallByValueCallByReference\bin\Debug\net6.0\03_CallByValueCallByReference.runtimeconfig.json
+C:\dev\matthias.prankl\03_CallByValueCallByReference\bin\Debug\net6.0\03_CallByValueCallByReference.dll
+C:\dev\matthias.prankl\03_CallByValueCallByReference\bin\Debug\net6.0\03_CallByValueCallByReference.pdb
+C:\dev\matthias.prankl\03_CallByValueCallByReference\obj\Debug\net6.0\03_CallByValueCallByReference.csproj.AssemblyReference.cache
+C:\dev\matthias.prankl\03_CallByValueCallByReference\obj\Debug\net6.0\03_CallByValueCallByReference.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\matthias.prankl\03_CallByValueCallByReference\obj\Debug\net6.0\03_CallByValueCallByReference.AssemblyInfoInputs.cache
+C:\dev\matthias.prankl\03_CallByValueCallByReference\obj\Debug\net6.0\03_CallByValueCallByReference.AssemblyInfo.cs
+C:\dev\matthias.prankl\03_CallByValueCallByReference\obj\Debug\net6.0\03_CallByValueCallByReference.csproj.CoreCompileInputs.cache
+C:\dev\matthias.prankl\03_CallByValueCallByReference\obj\Debug\net6.0\03_CallByValueCallByReference.dll
+C:\dev\matthias.prankl\03_CallByValueCallByReference\obj\Debug\net6.0\refint\03_CallByValueCallByReference.dll
+C:\dev\matthias.prankl\03_CallByValueCallByReference\obj\Debug\net6.0\03_CallByValueCallByReference.pdb
+C:\dev\matthias.prankl\03_CallByValueCallByReference\obj\Debug\net6.0\03_CallByValueCallByReference.genruntimeconfig.cache
+C:\dev\matthias.prankl\03_CallByValueCallByReference\obj\Debug\net6.0\ref\03_CallByValueCallByReference.dll
