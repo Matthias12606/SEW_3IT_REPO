@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_TryParse", "04_TryParse\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05Namespaces", "05Namespaces\05Namespaces.csproj", "{731A96E6-671A-47D7-B871-2706E29857EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Enums", "06_Enums\06_Enums.csproj", "{40DEDE93-92C2-43DC-AA5B-F2AB9B26A884}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{731A96E6-671A-47D7-B871-2706E29857EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{731A96E6-671A-47D7-B871-2706E29857EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{731A96E6-671A-47D7-B871-2706E29857EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40DEDE93-92C2-43DC-AA5B-F2AB9B26A884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40DEDE93-92C2-43DC-AA5B-F2AB9B26A884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40DEDE93-92C2-43DC-AA5B-F2AB9B26A884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40DEDE93-92C2-43DC-AA5B-F2AB9B26A884}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
