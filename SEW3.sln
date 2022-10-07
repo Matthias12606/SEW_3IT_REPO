@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_ValueTypesAndReferenceTy
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_NullabelDatatypes", "02_NullabelDatatypes\02_NullabelDatatypes.csproj", "{6BD1BF65-644E-4253-9914-B5DE756C364E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_CallByValueCallByReference", "03_CallByValueCallByReference\03_CallByValueCallByReference.csproj", "{0A14B10A-6CE2-4EDD-B800-3A1B1B024A41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_CallByValueCallByReference", "03_CallByValueCallByReference\03_CallByValueCallByReference.csproj", "{0A14B10A-6CE2-4EDD-B800-3A1B1B024A41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_TryParse", "04_TryParse\04_TryParse.csproj", "{D28BCFF7-0574-4CB1-98E1-31E386AD9779}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_TryParse", "04_TryParse\04_TryParse.csproj", "{D28BCFF7-0574-4CB1-98E1-31E386AD9779}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05Namespaces", "05Namespaces\05Namespaces.csproj", "{731A96E6-671A-47D7-B871-2706E29857EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{D28BCFF7-0574-4CB1-98E1-31E386AD9779}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D28BCFF7-0574-4CB1-98E1-31E386AD9779}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D28BCFF7-0574-4CB1-98E1-31E386AD9779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{731A96E6-671A-47D7-B871-2706E29857EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{731A96E6-671A-47D7-B871-2706E29857EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{731A96E6-671A-47D7-B871-2706E29857EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{731A96E6-671A-47D7-B871-2706E29857EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
