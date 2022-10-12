@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\matthias.prankl\\05Namespaces\\05_Namespaces.csproj",
-      "projectName": "05_Namespaces",
-      "projectPath": "C:\\dev\\matthias.prankl\\05Namespaces\\05_Namespaces.csproj",
+      "projectUniqueName": "C:\\dev\\matthias.prankl\\07_Delegate\\07_Delegate.csproj",
+      "projectName": "07_Delegate",
+      "projectPath": "C:\\dev\\matthias.prankl\\07_Delegate\\07_Delegate.csproj",
       "packagesPath": "C:\\Users\\matthias.prankl\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\matthias.prankl\\05Namespaces\\obj\\",
+      "outputPath": "C:\\dev\\matthias.prankl\\07_Delegate\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\matthias.prankl\\AppData\\Roaming\\NuGet\\NuGet.Config",
