@@ -1,0 +1,15 @@
+C:\dev\matthias.prankl\07_Delegate\obj\Debug\net6.0\07_Delegate.csproj.AssemblyReference.cache
+C:\dev\matthias.prankl\07_Delegate\obj\Debug\net6.0\07_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\matthias.prankl\07_Delegate\obj\Debug\net6.0\07_Delegate.AssemblyInfoInputs.cache
+C:\dev\matthias.prankl\07_Delegate\obj\Debug\net6.0\07_Delegate.AssemblyInfo.cs
+C:\dev\matthias.prankl\07_Delegate\obj\Debug\net6.0\07_Delegate.csproj.CoreCompileInputs.cache
+C:\dev\matthias.prankl\07_Delegate\bin\Debug\net6.0\07_Delegate.exe
+C:\dev\matthias.prankl\07_Delegate\bin\Debug\net6.0\07_Delegate.deps.json
+C:\dev\matthias.prankl\07_Delegate\bin\Debug\net6.0\07_Delegate.runtimeconfig.json
+C:\dev\matthias.prankl\07_Delegate\bin\Debug\net6.0\07_Delegate.dll
+C:\dev\matthias.prankl\07_Delegate\bin\Debug\net6.0\07_Delegate.pdb
+C:\dev\matthias.prankl\07_Delegate\obj\Debug\net6.0\07_Delegate.dll
+C:\dev\matthias.prankl\07_Delegate\obj\Debug\net6.0\refint\07_Delegate.dll
+C:\dev\matthias.prankl\07_Delegate\obj\Debug\net6.0\07_Delegate.pdb
+C:\dev\matthias.prankl\07_Delegate\obj\Debug\net6.0\07_Delegate.genruntimeconfig.cache
+C:\dev\matthias.prankl\07_Delegate\obj\Debug\net6.0\ref\07_Delegate.dll

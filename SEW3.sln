@@ -17,7 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_Namespaces", "05Namespac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_Enums", "06_Enums\06_Enums.csproj", "{40DEDE93-92C2-43DC-AA5B-F2AB9B26A884}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Delegate", "07_Delegate\07_Delegate.csproj", "{3AA24762-9131-4229-BAAD-D35620FAA5D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07_Delegate", "07_Delegate\07_Delegate.csproj", "{3AA24762-9131-4229-BAAD-D35620FAA5D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test01_1", "Test01_1\Test01_1.csproj", "{55A0D5C6-6FE2-4D47-9F00-295FD28CD224}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test01_2", "Test01_2\Test01_2.csproj", "{93148BF0-F077-4F00-A522-1FFC57130A08}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{3AA24762-9131-4229-BAAD-D35620FAA5D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AA24762-9131-4229-BAAD-D35620FAA5D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AA24762-9131-4229-BAAD-D35620FAA5D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55A0D5C6-6FE2-4D47-9F00-295FD28CD224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A0D5C6-6FE2-4D47-9F00-295FD28CD224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A0D5C6-6FE2-4D47-9F00-295FD28CD224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A0D5C6-6FE2-4D47-9F00-295FD28CD224}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93148BF0-F077-4F00-A522-1FFC57130A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93148BF0-F077-4F00-A522-1FFC57130A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93148BF0-F077-4F00-A522-1FFC57130A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93148BF0-F077-4F00-A522-1FFC57130A08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
