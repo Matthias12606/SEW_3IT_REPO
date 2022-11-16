@@ -1,0 +1,17 @@
+C:\dev\matthias.prankl\08_Calculator\bin\Debug\net6.0-windows\08_Calculator.exe
+C:\dev\matthias.prankl\08_Calculator\bin\Debug\net6.0-windows\08_Calculator.deps.json
+C:\dev\matthias.prankl\08_Calculator\bin\Debug\net6.0-windows\08_Calculator.runtimeconfig.json
+C:\dev\matthias.prankl\08_Calculator\bin\Debug\net6.0-windows\08_Calculator.dll
+C:\dev\matthias.prankl\08_Calculator\bin\Debug\net6.0-windows\08_Calculator.pdb
+C:\dev\matthias.prankl\08_Calculator\obj\Debug\net6.0-windows\08_Calculator.csproj.AssemblyReference.cache
+C:\dev\matthias.prankl\08_Calculator\obj\Debug\net6.0-windows\_08_Calculator.Form1.resources
+C:\dev\matthias.prankl\08_Calculator\obj\Debug\net6.0-windows\08_Calculator.csproj.GenerateResource.cache
+C:\dev\matthias.prankl\08_Calculator\obj\Debug\net6.0-windows\08_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\matthias.prankl\08_Calculator\obj\Debug\net6.0-windows\08_Calculator.AssemblyInfoInputs.cache
+C:\dev\matthias.prankl\08_Calculator\obj\Debug\net6.0-windows\08_Calculator.AssemblyInfo.cs
+C:\dev\matthias.prankl\08_Calculator\obj\Debug\net6.0-windows\08_Calculator.csproj.CoreCompileInputs.cache
+C:\dev\matthias.prankl\08_Calculator\obj\Debug\net6.0-windows\08_Calculator.dll
+C:\dev\matthias.prankl\08_Calculator\obj\Debug\net6.0-windows\refint\08_Calculator.dll
+C:\dev\matthias.prankl\08_Calculator\obj\Debug\net6.0-windows\08_Calculator.pdb
+C:\dev\matthias.prankl\08_Calculator\obj\Debug\net6.0-windows\08_Calculator.genruntimeconfig.cache
+C:\dev\matthias.prankl\08_Calculator\obj\Debug\net6.0-windows\ref\08_Calculator.dll
